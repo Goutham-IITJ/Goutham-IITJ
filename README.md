@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hey there! 👋<br>I'm Goutham, an engineer, artist, and accidental bug creator. If it's robotics, AI, or quantum computing, chances are I'm either building it, breaking it, or debugging it at 3 AM. 🚀<br><br>🤖 Robotics Enthusiast: I make robots smarter (or at least try to).<br>🎨 Fine Arts Fanatic: When I'm not training neural networks, I'm sketching them.<br>💡 Product Management Curious: Because tech needs vision, not just code.<br>🛩 RC Plane Builder: Yes, I made one. No, it didn’t crash (on purpose).<br>🔍 Quantum Explorer: Entangling qubits and my sleep schedule.<br>I thrive on ambitious projects, caffeine, and the illusion of free time. Always open to collaborations—just bring memes and good debugging skills! 😆<br><br>Let's build something awesome. 💻✨
 
+## ✒️ Recent Posts
+- 🏆 **[INTER IIT TECH 13.0 – 5th POSITION IN ROBOTICS PROBLEM STATEMENT](https://www.linkedin.com/posts/nandiniramnani_interiit-interiittechmeet13-robotics-ugcPost-7274443007708270592-8uTe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9sk38BOxneRcfGG3ETCqvYW7gF-WkUSZc)**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goutham_.99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goutham-a-s-93b30b312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b23ee1024@iitj.ac.in) 
