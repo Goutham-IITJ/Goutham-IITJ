@@ -13,7 +13,9 @@ Hey there...! 👋<br>I'm Goutham, an engineer, artist, and accidental bug creat
 ![](https://github-readme-stats.vercel.app/api?username=Goutham-IITJ&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Goutham-IITJ&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-IITJ&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Goutham-IITJ&color=blue)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
