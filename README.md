@@ -11,5 +11,8 @@ Hey there....! <br> I'm Goutham — a web developer focused on the MERN stack, w
 ![](https://github-readme-stats.vercel.app/api?username=Goutham-IITJ&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Goutham-IITJ&theme=dark&hide_border=false)
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Night Rainbow" width="100%" />
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Goutham-IITJ&color=blue)
