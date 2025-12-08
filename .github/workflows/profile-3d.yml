@@ -11,10 +11,15 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.TOKEN }} # <--- THIS IS THE FIX
+          fetch-depth: 0              # Helper to get full history
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
