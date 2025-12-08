@@ -16,7 +16,7 @@ Hey there....! <br> I'm Goutham — a web developer focused on the MERN stack, w
     </td>
     <td valign="top" width="50%">
       <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Night Rainbow" width="100%" />
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFyY2c3d2dxd2Z2MHB3amtjcXZ3eTRrbHIydTdzcTBwZ2tyY3JxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehgM1JRwNXAtaYDRzi/giphy.gif"  align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXY1YnRzNzQ0NG9obTE0MjZtaG1uMDNkYmFjcmk3cmd0dW1oZGsxYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RlHpuVwtbvdIBXzm2z/giphy.gif"  align="center">
     </td>
   </tr>
 </table>
