@@ -21,11 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          
-          # Modern visual settings
-          config_display: large
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+      
           
           # Language Stats (The Donut Chart)
           plugin_languages: yes
