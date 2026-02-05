@@ -16,7 +16,7 @@ I am an **Electrical Engineering undergraduate at IIT Jodhpur**, bridging the ga
 -  **[INTER IIT TECH 13.0 – 5th POSITION IN ROBOTICS PROBLEM STATEMENT](https://www.linkedin.com/posts/nandiniramnani_interiit-interiittechmeet13-robotics-ugcPost-7274443007708270592-8uTe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9sk38BOxneRcfGG3ETCqvYW7gF-WkUSZc)**
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goutham_.99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goutham-a-s-93b30b312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b23ee1024@iitj.ac.in) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goutham_.as) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouthamas10/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b23ee1024@iitj.ac.in) 
 
 
 ## GitHub Stats:
